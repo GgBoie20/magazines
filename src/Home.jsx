@@ -6,8 +6,8 @@ import Layout from './Layout'
 const Home = () => {
   return (
     <Container>
+      <NavBar/>
         <Typography variant="h3" color="initial">Home</Typography>
-        <NavBar/>
         <Layout/>
     </Container>
   )
