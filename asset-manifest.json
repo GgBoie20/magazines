@@ -1,12 +1,15 @@
 {
   "files": {
     "main.css": "/magazines/static/css/main.31d6cfe0.css",
-    "main.js": "/magazines/static/js/main.a14d53a5.js",
+    "main.js": "/magazines/static/js/main.55dea550.js",
+    "static/media/front.svg": "/magazines/static/media/front.d6a020d1fc241773662b291bcd7cb1aa.svg",
+    "static/media/Dec.png": "/magazines/static/media/Dec.124268fc8275ffcc9f67.png",
+    "static/media/Oct.png": "/magazines/static/media/Oct.9abb08874339b061c39f.png",
     "index.html": "/magazines/index.html",
-    "main.a14d53a5.js.map": "/magazines/static/js/main.a14d53a5.js.map"
+    "main.55dea550.js.map": "/magazines/static/js/main.55dea550.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.a14d53a5.js"
+    "static/js/main.55dea550.js"
   ]
 }
